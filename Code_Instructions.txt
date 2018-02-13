@@ -1,0 +1,25 @@
+Input Format:
+2
+data mining
+frequent pattern mining
+mining frequent patterns from the transaction dataset
+closed and maximal pattern mining
+
+Output Format:
+Frequent Pattern:
+4 [ mining ]
+2 [ frequent ]
+2 [ frequent mining ]
+2 [ mining pattern ]
+2 [ pattern ]
+
+Closed Pattern:
+4 [ mining ]
+2 [ frequent mining ]
+2 [ mining pattern ]
+
+Max Pattern
+2 [ frequent mining ]
+2 [ mining pattern ]
+
+Feel free to optimize the code!
